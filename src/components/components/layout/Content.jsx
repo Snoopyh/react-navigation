@@ -3,7 +3,7 @@ import './Content.css'
 function Content() {
   return(
     <main className='Content'>
-      componente Content
+      <h1>componente Content</h1>
     </main>
   )
 }
